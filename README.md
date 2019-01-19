@@ -48,9 +48,7 @@ Using with Maven:
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Send me a direct message for contribute to projet or by mail : yanis.sadi.pro@gmail.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
